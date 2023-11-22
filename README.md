@@ -1,1 +1,1 @@
-# templete2
+# CSS templete2
